@@ -7,7 +7,7 @@
 
 ## Paso 1: Imprimir o reimprimir el contrato de adhesión
 
-En caso que tengás un contrato de adhesión previo, re imprimilo y pasá al Paso 2.
+En caso que tengás un contrato de adhesión previo, reimprimilo y pasá al Paso 2.
 
 En caso que no lo tengás, andá a [la página de la SAR](http://www.sar.gob.hn/) y [reimprimí el contrato de adhesión](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudacceso/ReimpresionContrato.aspx) pero probablemente tengás que [solicitar accseso](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudAcceso/FormularioAdhesion.aspx) antes de hacerlo. Nota: Esto todavía no lo hemos probado.
 
@@ -25,7 +25,7 @@ Ir a las oficinas de la SAR, ubicadas en el edificio de la DEI. En la circumbala
 
 Una vez ahí, deberían haber 2 filas: una para la DEI y otra para la SAR. Preguntá hasta encontrar cuál es la de la SAR que normalmente es la más corta. Una vez terminada la fila te van a dar un ticket para hacer otra fila en una área con aire acondicionado.
 
-Cuando llamen a tu número entregás los documentos y decís _"Vengo a solicitar mi PIN para obtener mi contraseña Tributaria porque quiero imprimir recibos por honorarios"_ y entregás las fotocopias. Si te preguntan si cambiaste de domicilo decí que **NO** porque si lo cambiás te toca sacar otro papel la municipalidad. Al final te van a dar un papel que contiene el PIN.
+Cuando llamen a tu número entregás los documentos y decís _"Hola! Vengo a solicitar mi PIN para obtener mi contraseña Tributaria porque quiero imprimir recibos por honorarios"_ y entregás las fotocopias. Si te preguntan si cambiaste de domicilo decí que **NO** porque si lo cambiás te toca sacar otro papel la municipalidad. Al final te van a dar un papel que contiene el PIN.
 
 ## Paso 4: Activar la contraseña tributaria
 
