@@ -1,6 +1,6 @@
 # Imprimir Recibos por honorarios
 
-## Requicitos Previos
+## Requisitos Previos
 
 * RTN
 * Tarjeta de identidad
@@ -9,7 +9,7 @@
 
 En caso que tengás un contrato de adhesión previo, reimprimilo y pasá al Paso 2.
 
-En caso que no lo tengás, andá a [la página de la SAR](http://www.sar.gob.hn/) y [reimprimí el contrato de adhesión](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudacceso/ReimpresionContrato.aspx) pero probablemente tengás que [solicitar accseso](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudAcceso/FormularioAdhesion.aspx) antes de hacerlo. Nota: Esto todavía no lo hemos probado.
+En caso que no lo tengás, andá a [la página de la SAR](http://www.sar.gob.hn/) y [reimprimí el contrato de adhesión](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudacceso/ReimpresionContrato.aspx) pero probablemente tengás que [solicitar acceso](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudAcceso/FormularioAdhesion.aspx) antes de hacerlo. Nota: Esto todavía no lo hemos probado.
 
 ## Paso 2: Sacar fotocopias
 
