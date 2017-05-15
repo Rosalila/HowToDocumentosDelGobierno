@@ -25,7 +25,7 @@ Ir a las oficinas de la SAR, ubicadas en el edificio de la DEI. En la circumbala
 
 Una vez ahí, deberían haber 2 filas: una para la DEI y otra para la SAR. Preguntá hasta encontrar cuál es la de la SAR que normalmente es la más corta. Una vez terminada la fila te van a dar un ticket para hacer otra fila en una área con aire acondicionado.
 
-Cuando llamen a tu número entregás los documentos y decís "Vengo a solicitar mi PIN para obtener mi contraseña Tributaria porque quiero imprimir recibos por honorarios" y entregás las fotocopias. Si te preguntan si cambiaste de domicilo decí que **NO** porque si lo cambiás te toca sacar otro papel la municipalidad. Al final te van a dar un papel que contiene el PIN.
+Cuando llamen a tu número entregás los documentos y decís _"Vengo a solicitar mi PIN para obtener mi contraseña Tributaria porque quiero imprimir recibos por honorarios"_ y entregás las fotocopias. Si te preguntan si cambiaste de domicilo decí que **NO** porque si lo cambiás te toca sacar otro papel la municipalidad. Al final te van a dar un papel que contiene el PIN.
 
 ## Paso 4: Activar la contraseña
 
@@ -33,7 +33,7 @@ Una vez tengás el PIN activalo desde la [página de la SAR](http://oficinavirtu
 
 ## Paso 5: Descargar DET Live
 
-Andá a la página de descargas de [DET Live](http://detlive.sar.gob.hn/?q=Descargas) y descargá el **Módulo Base** y el módulo de facturación **SAR-927 Solicitud de Autorización de Impresión por Autoimpresor** e instalalos en tu PC. Nota: No hay ejecutables para Linux.
+Andá a la página de descargas de [DET Live](http://detlive.sar.gob.hn/?q=Descargas) y descargá el **Módulo Base** y el módulo de facturación **SAR-927 Solicitud de Autorización de Impresión por Autoimpresor** e instalalos en tu PC. Para hacerlo, primero instalá el **Modulo Base** dándole _next next next..._ y luego, desde adentro del programa instalás el módulo **SAR-927**.  Nota: No hay ejecutables para Linux.
 
 ## Paso 6: Solicitar rango de números de facturas
 
