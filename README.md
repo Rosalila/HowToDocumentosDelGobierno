@@ -29,7 +29,7 @@ Cuando llamen a tu número entregás los documentos y decís _"Hola! Vengo a sol
 
 ## Paso 4: Activar la contraseña tributaria
 
-Una vez tengás el PIN activalo desde la [página de la SAR](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudacceso/ActivarPin.aspx) donde te va a pedir que creés tu contraseña tributaria.
+Una vez tengás el PIN, activálo desde la [página de la SAR](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudacceso/ActivarPin.aspx) donde te va a pedir que creés tu contraseña tributaria.
 
 ## Paso 5: Descargar DET Live
 
