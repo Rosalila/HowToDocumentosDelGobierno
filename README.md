@@ -27,7 +27,7 @@ Una vez ahí, deberían haber 2 filas: una para la DEI y otra para la SAR. Pregu
 
 Cuando llamen a tu número entregás los documentos y decís _"Vengo a solicitar mi PIN para obtener mi contraseña Tributaria porque quiero imprimir recibos por honorarios"_ y entregás las fotocopias. Si te preguntan si cambiaste de domicilo decí que **NO** porque si lo cambiás te toca sacar otro papel la municipalidad. Al final te van a dar un papel que contiene el PIN.
 
-## Paso 4: Activar la contraseña
+## Paso 4: Activar la contraseña tributaria
 
 Una vez tengás el PIN activalo desde la [página de la SAR](http://oficinavirtual.sar.gob.hn/deienlinea/solicitudacceso/ActivarPin.aspx) donde te va a pedir que creés tu contraseña tributaria.
 
