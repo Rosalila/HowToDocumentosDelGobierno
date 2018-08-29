@@ -42,3 +42,8 @@
         * Presentar únicamente los papeles que te soliciten
         * La cantidad de dinero en la constancia de ahorros parece ser bastante imporante así que pon un una cantidad considerable de dinero un par de meses antes de ir para que tu cuenta refleje movimiento
         * Habla seguro de tí mismo
+    * Preguntas frecuentes:
+        * ¿Dónde planea viajar?
+        * ¿Cuál es el motivo del viaje?
+        * ¿Tiene familiares en los estados unidos?
+        * ¿Dónde se va a hospedar?
